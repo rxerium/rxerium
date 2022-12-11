@@ -16,16 +16,18 @@
 - I'm a Cyber Security Analyst based in London, United Kingdom. 
 - 🔭 I’m currently working on various security projects and BASH scripts to automate my workflows.
 - 🌱 I’m currently learning Python
-- 📫 I can be reach on [Twitter](https://twitter.com/hakrishi) or via [email](mailto:hakrishi@pm.me)
+- 📫 I can be reached on [Twitter](https://twitter.com/hakrishi) or via [email](mailto:hakrishi@pm.me)
 
 ---
 
 # 🚀 My Skills
 
-![My Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,git,powershell)
+![My Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,git,powershell,linux,githubactions,html,vercel)
 
 # 📈 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakrishi&count_private=true&show_icons=true&theme=tokyonight)
+![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakrishi&count_private=true&show_icons=true&theme=tokyonight)
+
+[![Rishi's GitHub Streak](https://streak-stats.demolab.com?user=hakrishi&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 
 
