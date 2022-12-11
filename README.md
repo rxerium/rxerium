@@ -6,12 +6,17 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=hakrishi&style=flat-square&color=blue" alt=""/>
 
 
 ---
 
-# About me
+# 😄 About me
+
+- 🔭 I’m currently working on various security projects
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on security projects and workflows
+
 
 
 <!--
@@ -21,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+ ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
