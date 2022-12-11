@@ -13,9 +13,16 @@
 
 # 😄 About me
 
-- 🔭 I’m currently working on various security projects
+- I'm a Cyber Security Analyst based in London, United Kingdom. 
+- 🔭 I’m currently working on various security projects and BASH scripts to automate my workflows.
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on security projects and workflows
+- 📫 I can be reach on [Twitter](https://twitter.com/hakrishi) or via [email](mailto:hakrishi@pm.me)
+
+![My Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,git,powershell)
+
+[![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakrishi)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
@@ -29,7 +36,7 @@ Here are some ideas to get you started:
  ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+ ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
