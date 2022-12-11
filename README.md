@@ -18,9 +18,14 @@
 - 🌱 I’m currently learning Python
 - 📫 I can be reach on [Twitter](https://twitter.com/hakrishi) or via [email](mailto:hakrishi@pm.me)
 
+---
+
+# 🚀 My Skills
+
 ![My Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,git,powershell)
 
-[![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakrishi)](https://github.com/anuraghazra/github-readme-stats)
+# 📈 Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true,show_icons=true,&theme=tokyonight)
 
 
 
