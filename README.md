@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rishi a Cyber Security Analyst based in London, United Kingdom
+### Hi there 👋, I'm Rishi
 
 <div id="badges">
   <a href="https://twitter.com/hakrishi">
@@ -13,7 +13,8 @@
 
 # 😄 About me
 
-- I'm a Cyber Security Analyst based in London, United Kingdom. 
+I'm a Cyber Security Analyst based in London, United Kingdom. 
+
 - 🔭 I’m currently working on various security projects and BASH scripts to automate my workflows.
 - 🌱 I’m currently learning Python
 - 📫 I can be reached on [Twitter](https://twitter.com/hakrishi) or via [email](mailto:hakrishi@pm.me)
@@ -28,6 +29,10 @@
 ![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakrishi&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Rishi's GitHub Streak](https://streak-stats.demolab.com?user=hakrishi&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+# 🗣️ Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakrishi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
