@@ -25,7 +25,7 @@
 ![My Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,git,powershell)
 
 # 📈 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true,show_icons=true,&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakrishi&count_private=true&show_icons=true&theme=tokyonight)
 
 
 
