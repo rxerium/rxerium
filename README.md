@@ -32,7 +32,7 @@ I'm a Cyber Security Analyst based in London, United Kingdom.
 
 # 🗣️ Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakrishi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakrishi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
