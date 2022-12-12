@@ -13,6 +13,8 @@
 
 # 😄 About me
 
+[![Rishi](https://github-widgetbox.vercel.app/api/profile?username=hakrishi&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
+
 I'm a Cyber Security Analyst based in London, United Kingdom. 
 
 - 🔭 I’m currently working on various security projects and BASH scripts to automate my workflows.
@@ -21,18 +23,24 @@ I'm a Cyber Security Analyst based in London, United Kingdom.
 
 ---
 
-# 🚀 My Skills
+# 🗣️  Languages
 
-![My Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,git,powershell,linux,githubactions,html,vercel)
+[![Languages](https://github-widgetbox.vercel.app/api/skills?languages=python,js,bash,yaml,postgresql,markdown)](https://github.com/Jurredr/github-widgetbox)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakrishi)](https://github.com/anuraghazra/github-readme-stats)
+
+# 🚀 Other Skills
+
+![My Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,git,powershell,linux,githubactions,vercel)
+
+# 🗣️ Languages
+
+
 
 # 📈 Stats
 ![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakrishi&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Rishi's GitHub Streak](https://streak-stats.demolab.com?user=hakrishi&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-# 🗣️ Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakrishi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
