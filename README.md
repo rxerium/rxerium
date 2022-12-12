@@ -11,7 +11,7 @@
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="25" height="25" /> About me
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="30" height="30" /> About me
 
 [![Rishi](https://github-widgetbox.vercel.app/api/profile?username=hakrishi&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
 
@@ -23,15 +23,15 @@ I'm a Cyber Security Analyst based in London, United Kingdom.
 
 ---
 
-# 🗣️  Languages
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="30" height="30" />  Languages
 
 [![Languages](https://github-widgetbox.vercel.app/api/skills?languages=python,js,bash,yaml,postgresql,markdown)](https://github.com/Jurredr/github-widgetbox)
 
-# 🚀 Other Skills
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="30" height="30" /> Other Skills
 
 ![My Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,git,powershell,linux,githubactions,vercel)
 
-# 📈 Stats
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> Stats
 ![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakrishi&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Rishi's GitHub Streak](https://streak-stats.demolab.com?user=hakrishi&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
