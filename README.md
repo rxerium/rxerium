@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="30" height="30" />, I'm Rishi
+### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="28" height="28" />, I'm Rishi
 
 
 ---
@@ -23,12 +23,12 @@ I'm a Cyber Security Analyst based in London, United Kingdom.
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="30" height="30" />  Languages
 
-![Languages](https://skillicons.dev/icons?i=bash,postgres,powershell)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakrishi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="30" height="30" /> Other Skills
 
-![My Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,git,linux,githubactions,vercel&perline=4)
+![My Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,git,linux,githubactions,vercel)
 
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> Stats
@@ -36,22 +36,3 @@ I'm a Cyber Security Analyst based in London, United Kingdom.
 ![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakrishi&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Rishi's GitHub Streak](https://streak-stats.demolab.com?user=hakrishi&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-
-
-
-
-<!--
-**hakrishi/hakrishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
- ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
- ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
