@@ -26,7 +26,7 @@ I'm a Cyber Security Analyst based in London, United Kingdom.
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hakrishi)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="30" height="30" /> Other Skills
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="30" height="30" /> Skills
 
 ![My Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,git,linux,githubactions,vercel)
 
