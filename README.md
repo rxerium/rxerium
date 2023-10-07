@@ -18,7 +18,7 @@ I'm a Cyber Security Analyst based in London, United Kingdom.
 - 🔭 I’m currently working on various security projects and BASH scripts to automate my workflows.
 - 🏠 I'm currently building out my Home Lab
 - 🌱 I’m always looking for something new to try out and learn.
-- 📫 I can be reached on [Twitter](https://twitter.com/rxerium) or via [email](mailto:rxerium@pm.me)
+- 📫 I can be reached on [Twitter](https://twitter.com/rxerium) or via [email](mailto:rxerium@protonmail.com)
 
 ---
 
