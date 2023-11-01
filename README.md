@@ -15,8 +15,8 @@
 
 I'm a Cyber Security Analyst based in London, United Kingdom. 
 
-- 🔭 I’m currently working on various security projects and BASH scripts to automate my workflows.
-- 🏠 I'm currently building out my Home Lab
+- 🔭 I’m currently working on various security projects and BASH and python scripts to automate my workflows
+- 🏠 At the moment I'm building out my [homelab](https://github.com/rxerium/rishi-homeLab)
 - 🌱 I’m always looking for something new to try out and learn.
 - 📫 Lets connect on one of the below platforms:
   - Email: rishi@rxerium.com
