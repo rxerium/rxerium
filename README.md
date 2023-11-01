@@ -18,7 +18,11 @@ I'm a Cyber Security Analyst based in London, United Kingdom.
 - 🔭 I’m currently working on various security projects and BASH scripts to automate my workflows.
 - 🏠 I'm currently building out my Home Lab
 - 🌱 I’m always looking for something new to try out and learn.
-- 📫 Lets connect on [X](https://twitter.com/rxerium) or via [email](mailto:rishi@rxerium.com)
+- 📫 Lets connect on one of the below platforms:
+  - Email: rishi@rxerium.com
+  - Keybase: [@rxerium_](https://keybase.io/rxerium_)
+  - Session: [pubkey](https://github.com/rxerium/rxerium/blob/main/misc/session_pubkey)
+  - Nostr: [pubkey](https://github.com/rxerium/rxerium/blob/main/misc/nostr_pubkey)
 
 ---
 
