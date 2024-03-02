@@ -20,7 +20,7 @@
 
 <p float="left">
   <a href="https://github.com/Jurredr/github-widgetbox">
-    <img width="34%" src="https://github-widgetbox.vercel.app/api/skills?languages=bash,yaml,markdown,json,powershell,python&tools=docker,git,npm,vercel,nodejs,wordpress,aws&includeNames=true&theme=nautilus" alt="GitHub WidgetBox" />
+    <img width="40%" src="https://github-widgetbox.vercel.app/api/skills?languages=bash,yaml,markdown,json,powershell,python&tools=docker,git,npm,vercel,nodejs,wordpress,aws&includeNames=true&theme=nautilus" alt="GitHub WidgetBox" />
 
 
 
