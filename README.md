@@ -18,12 +18,8 @@
 ---
 
 
+
 <p float="left">
-  <a href="https://github.com/Jurredr/github-widgetbox">
-    <img width="40%" src="https://github-widgetbox.vercel.app/api/skills?languages=bash,yaml,markdown,json,powershell,python&tools=docker,git,npm,vercel,nodejs,wordpress,aws&includeNames=true&theme=nautilus" alt="GitHub WidgetBox" />
-
-
-
   <img src="https://github-readme-stats.vercel.app/api?username=rxerium&count_private=true&show_icons=true&theme=tokyonight" width="400" />
   <img src="https://streak-stats.demolab.com?user=rxerium&theme=tokyonight" width="424" /> 
 </p>
