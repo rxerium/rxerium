@@ -8,6 +8,7 @@
 
 
 # 📫 Lets connect
+  - [Signal](https://signal.me/#eu/0Qd68U1ivXNdWCF4hf70UYFo7tB0w-GQqFpYcyV6-yr4exn2SclB6bFeP7wTAxQw)
   - Email: rishi@rxerium.com
     - [PGP key](https://github.com/rxerium/rxerium/blob/main/misc/email_PGP)
   - Keybase: [@rxerium_](https://keybase.io/rxerium_)
