@@ -9,11 +9,11 @@
 
 # 📫 Lets connect
   - [Signal](https://signal.me/#eu/0Qd68U1ivXNdWCF4hf70UYFo7tB0w-GQqFpYcyV6-yr4exn2SclB6bFeP7wTAxQw)
-  - Email: rishi@rxerium.com
+  - [Email](mailto:rishi@rxerium.com)
     - [PGP key](https://github.com/rxerium/rxerium/blob/main/misc/email_PGP)
-  - Keybase: [@rxerium_](https://keybase.io/rxerium_)
-  - Session: [pubkey](https://github.com/rxerium/rxerium/blob/main/misc/session_pubkey)
-  - Nostr: [pubkey](https://github.com/rxerium/rxerium/blob/main/misc/nostr_pubkey)
+  - [Keybase](https://keybase.io/rxerium_)
+  - [Session](https://github.com/rxerium/rxerium/blob/main/misc/session_pubkey)
+  - [Nostr](https://github.com/rxerium/rxerium/blob/main/misc/nostr_pubkey)
 
 
 ---
