@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="28" height="28" />, I'm Rishi
+### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="28" height="28" />, I'm Rishi, a Senior Cyber Analyst based in London, UK. 
 
 
 
@@ -7,7 +7,7 @@
 [![Rishi](https://github-widgetbox.vercel.app/api/profile?username=rxerium&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 
-# 📫 Lets connect
+# 📫 Let's connect
   - [Signal](https://signal.me/#eu/0Qd68U1ivXNdWCF4hf70UYFo7tB0w-GQqFpYcyV6-yr4exn2SclB6bFeP7wTAxQw)
   - [Email](mailto:rishi@rxerium.com)
     - [PGP key](https://github.com/rxerium/rxerium/blob/main/misc/email_PGP)
