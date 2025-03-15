@@ -4,8 +4,6 @@ I'm Rishi, a Senior Cyber Analyst based in London, UK, passionate about:
 - 🏠 Homelab Experiments (Self-hosted services, network security, automation)
 - 📊 Threat Intelligence & Vulnerability Research
 
-I am always looking for new opportunities to collaborate on exciting projects and expand my knowledge in cyber security.
-
 [![Rishi](https://github-widgetbox.vercel.app/api/profile?username=rxerium&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 
