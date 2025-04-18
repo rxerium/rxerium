@@ -1,8 +1,12 @@
 ## Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="28" height="28" />
 I'm Rishi, a Senior Cyber Analyst based in London, UK, passionate about:
-- 🔓 Open-source security tools (Actively contributing to [ProjectDiscovery](https://github.com/projectdiscovery/nuclei-templates) and [OWASP Amass](https://github.com/owasp-amass/amass))
+- 🔓 Open-source security tools (Currently actively contributing to [ProjectDiscovery](https://github.com/projectdiscovery/nuclei-templates) and [OWASP Amass](https://github.com/owasp-amass/amass))
 - 🏠 Homelab Experiments (Self-hosted services, network security, automation)
 - 📊 Threat Intelligence & Vulnerability Research
+- 💻 Open source intelligence (OSINT)
+
+[![Signal](https://img.shields.io/badge/Signal-%23333.svg?style=for-the-badge&logo=signal&logoColor=white)](https://signal.me/#eu/0Qd68U1ivXNdWCF4hf70UYFo7tB0w-GQqFpYcyV6-yr4exn2SclB6bFeP7wTAxQw)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rxerium)
 
 [![Rishi](https://github-widgetbox.vercel.app/api/profile?username=rxerium&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
@@ -27,4 +31,3 @@ I'm Rishi, a Senior Cyber Analyst based in London, UK, passionate about:
     width="84%"
   />
 </div>
-
