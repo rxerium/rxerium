@@ -1,33 +1,46 @@
-## Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="28" height="28" />
-I'm Rishi, a Senior Cyber Analyst based in London, UK, passionate about:
-- 🔓 Open-source security tools (Currently actively contributing to [ProjectDiscovery](https://github.com/projectdiscovery/nuclei-templates) and [OWASP Amass](https://github.com/owasp-amass/amass))
-- 🏠 Homelab Experiments (Self-hosted services, network security, automation)
-- 📊 Threat Intelligence & Vulnerability Research
-- 💻 Open source intelligence (OSINT)
-
-[![Signal](https://img.shields.io/badge/Signal-%23333.svg?style=for-the-badge&logo=signal&logoColor=white)](https://signal.me/#eu/0Qd68U1ivXNdWCF4hf70UYFo7tB0w-GQqFpYcyV6-yr4exn2SclB6bFeP7wTAxQw)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rxerium)
-
-[![Rishi](https://github-widgetbox.vercel.app/api/profile?username=rxerium&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
-
-
-## 📫 Let's connect
-  - 📫 Reach out to me on [Signal](https://signal.me/#eu/0Qd68U1ivXNdWCF4hf70UYFo7tB0w-GQqFpYcyV6-yr4exn2SclB6bFeP7wTAxQw).
-  - 📩 Email: [rishi@rxerium.com](mailto:rishi@rxerium.com) - [PGP key](https://github.com/rxerium/rxerium/blob/main/misc/email_PGP).
-  - 📱 Other socials: [socials.md](https://github.com/rxerium/rxerium/blob/main/misc/socias.md).
-
-
-
-
-## Stats
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rxerium&count_private=true&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://streak-stats.demolab.com?user=rxerium&theme=tokyonight" width="424" /> 
-</p>
-
-<div align="left">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rxerium&theme=tokyo-night"
-    width="84%"
-  />
+<div align="center">
+  <h1>Hey there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="36" height="36" /></h1>
+  
+  <p><strong>I'm Rishi</strong> — Senior Cyber Analyst based in London, UK</p>
+  
+  [![Website](https://img.shields.io/badge/Website-rxerium.com-blue?style=flat-square&logo=firefox-browser)](https://rxerium.com)
+  [![Email](https://img.shields.io/badge/Email-rishi@rxerium.com-red?style=flat-square&logo=gmail)](mailto:rishi@rxerium.com)
+  [![Signal](https://img.shields.io/badge/Signal-@rxerium.02-3A76F0?style=flat-square&logo=signal&logoColor=white)](https://signal.me/#eu/0Qd68U1ivXNdWCF4hf70UYFo7tB0w-GQqFpYcyV6-yr4exn2SclB6bFeP7wTAxQw)
 </div>
+
+## 💼 About Me
+
+I'm passionate about:
+- 🔓 Contributing to open-source security projects
+- 🏠 Homelabs - self-hosted services, network security, automation
+- 📊 Threat Intelligence & Vulnerability Research
+- 💻 Open Source Intelligence (OSINT)
+
+<details>
+  <summary>💬 Connect with me</summary>
+  <br>
+  
+  - X/Twitter: [@rxerium](https://twitter.com/rxerium)
+  - Mastodon: [@rxerium@infosec.exchange](https://infosec.exchange/@rxerium)
+  - Signal: [@rxerium.02](https://signal.me/#eu/0Qd68U1ivXNdWCF4hf70UYFo7tB0w-GQqFpYcyV6-yr4exn2SclB6bFeP7wTAxQw)
+  - Email: [rishi@rxerium.com](mailto:rishi@rxerium.com) - [PGP key](https://github.com/rxerium/rxerium/blob/main/misc/email_PGP.md)
+  - More: [See all socials](https://github.com/rxerium/rxerium/blob/main/misc/socials.md)
+</details>
+
+## 📝 Recent Blog Posts
+
+- [Fishing for Phishing](https://projectdiscovery.io/blog/phishing-templates) 
+- [Ethical Implications of OSINT in Personal Data Collection](https://www.osint.uk/content/ethical-implications-of-osint-in-personal-data-collection)
+- [CVE-2025-31324 Zero Day Analysis](https://substack.com/home/post/p-162810912)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rxerium&count_private=true&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=rxerium&theme=tokyonight" width="49%" /> 
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rxerium&theme=tokyo-night" width="90%" />
+</div>
+
