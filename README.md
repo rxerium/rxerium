@@ -10,32 +10,20 @@
 
 ## 💼 About Me
 
-I'm passionate about:
-- 🔓 Contributing to open-source security projects
-- 🏠 Homelabs - self-hosted services, network security, automation
-- 📊 Threat Intelligence & Vulnerability Research
-- 💻 Open Source Intelligence (OSINT)
+- [Projects](https://rxerium.com/timeline#projects)
+- [Blog Posts](https://rxerium.com/timeline#blogs)
+- [Career](https://rxerium.com/timeline#career)
+- [Affiliations](https://rxerium.com/timeline#affiliations)
+- [Recognitions](https://rxerium.com/timeline#recognition)
 
-<details>
-  <summary>💬 Connect with me</summary>
-  <br>
-  
-  - X/Twitter: [@rxerium](https://twitter.com/rxerium)
-  - Mastodon: [@rxerium@infosec.exchange](https://infosec.exchange/@rxerium)
-  - Signal: [@rxerium.02](https://signal.me/#eu/0Qd68U1ivXNdWCF4hf70UYFo7tB0w-GQqFpYcyV6-yr4exn2SclB6bFeP7wTAxQw)
-  - Email: [rishi@rxerium.com](mailto:rishi@rxerium.com) - [PGP key](https://github.com/rxerium/rxerium/blob/main/misc/email_PGP.md)
-  - More: [See all socials](https://github.com/rxerium/rxerium/blob/main/misc/socials.md)
-</details>
-
-## 📝 Recent Blog Posts
-
-- [Fishing for Phishing](https://projectdiscovery.io/blog/phishing-templates) 
-- [Ethical Implications of OSINT in Personal Data Collection](https://www.osint.uk/content/ethical-implications-of-osint-in-personal-data-collection)
-- [CVE-2025-31324 Zero Day Analysis](https://substack.com/home/post/p-162810912)
 
 ## 📊 GitHub Stats
 
 <div align="center">
+  <!-- GitHub Metrics -->
+  <img src="https://metrics.lecoq.io/rxerium?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon" alt="Metrics" width="90%">
+
+  <!-- Classic Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=rxerium&count_private=true&show_icons=true&theme=tokyonight" width="49%" />
   <img src="https://streak-stats.demolab.com?user=rxerium&theme=tokyonight" width="49%" /> 
 </div>
@@ -43,4 +31,3 @@ I'm passionate about:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rxerium&theme=tokyo-night" width="90%" />
 </div>
-
