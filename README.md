@@ -1,2 +1,7 @@
+<p align="center">
+	<img src="misc/profile-banner.png" alt="Profile banner" />
+</p>
 
-![Metrics](/github-metrics.svg)
+<p align="center">
+	<img src="/github-metrics.svg" alt="Metrics" />
+</p>
