@@ -24,8 +24,6 @@ Rishi is a vulnerability researcher and threat intelligence specialist in London
 - **DEF CON 34** — SE Village (x2 workshops) & Recon Village
 - **DEF CON 33** — Red Team Village: DNS OSINT
 - **Black Hat Sector** — Ghost in the Hiring Machine
-- **GrrCON** — DNS OSINT Techniques
-- **Bugcrowd x AWS** — bug bounty & ASM panel, Amazon HQ London
 - **OWASP London** — Salesloft Drift detection via DNS
 - **BSides** — Budapest, Prague, Las Vegas & more
 
