@@ -12,12 +12,6 @@ Rishi is a vulnerability researcher and threat intelligence specialist in London
 - **OWASP Member** — Amass & Nettacker contributor
 - Detection scripts adopted by national CERTs
 
-### 🏆 Recognition & Media
-
-- **Government & CERT** — cited or adopted by NCSC, CERT Polska, NIST/NVD, INCIBE, CIRCL, Cal-CSIC, Vietnam
-- **Industry** — cited by SonicWall, Qualys, Censys, ReSecurity, Coalition, Intruder, BlackKite, Feedly, +more
-- **Media** — GBHackers, CyberPress, lebigdata.fr
-
 ### 🎤 Talks
 
 - **UK Parliament** — briefing on vuln research & supply chain security
@@ -33,6 +27,12 @@ Rishi is a vulnerability researcher and threat intelligence specialist in London
 - [DNS OSINT Techniques](https://rxerium.com/posts/dns-osint-techniques/)
 - [Internal Security Detection from an External Lens](https://rxerium.com/posts/internal-security-detection/)
 - [Fishing for Phishing with Nuclei Templates](https://rxerium.com/posts/fishing-for-phishing-with-nuclei-templates/)
+
+### 🏆 Recognition & Media
+
+- **Government & CERT** — cited or adopted by NCSC, CERT Polska, NIST/NVD, INCIBE, CIRCL, Cal-CSIC, Vietnam
+- **Industry** — cited by SonicWall, Qualys, Censys, ReSecurity, Coalition, Intruder, BlackKite, Feedly, +more
+- **Media** — GBHackers, CyberPress, lebigdata.fr
 
 ### 📫 Connect
 
