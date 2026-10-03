@@ -20,19 +20,8 @@ Full profile: **[rxerium.com/about](https://rxerium.com/about/)**
 | 🏛️ Gov & CERT citations | **7** — NCSC (UK), CERT Polska, NIST/NVD, INCIBE (ES), CIRCL (LU), Cal-CSIC, Vietnam |
 | 🐛 CVEs disclosed | **11** — **3** Critical (CVSS 9.8) · **8** High (CVSS 7.5) |
 
-> 🔄 Stats auto-synced daily from [rxerium.com/about](https://rxerium.com/about/) — the website is the source of truth.
+> 🔄 Stats auto-synced weekly from [rxerium.com/about](https://rxerium.com/about/) — the website is the source of truth.
 <!-- SYNC:END -->
-
-## 💼 Experience
-
-| Organisation | Role | Period |
-|---|---|---|
-| The Shadowserver Foundation | CTI — detection signatures & internet-wide scans powering daily threat reports to CSIRTs; honeypot analysis; exposure data for remediation | Jan 2026 — Present |
-| UK OSINT | Executive Leadership — sovereign UK intel capability, OSINT education & events | Mar 2025 — Present |
-| KYND, London | Senior Security Researcher — enterprise vuln research; internet-wide scanning platform | Feb 2022 — Aug 2026 |
-| ECC | First Line Support Engineer — network/endpoint support, EPP/MDR, AD & M365 | Jan 2020 — Aug 2021 |
-
-Also: **ProjectDiscovery Pioneer** (Oct 2024 — Present) and **OWASP Member** (Amass & Nettacker contributor) — see [affiliations](https://rxerium.com/about/#affiliations).
 
 ## 🛠️ Open source & projects
 

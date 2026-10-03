@@ -49,7 +49,7 @@ def build_sync_block(stats: dict) -> str:
         f"| \U0001f3db\ufe0f Gov & CERT citations | **{stats['gov_citations']}** \u2014 NCSC (UK), CERT Polska, NIST/NVD, INCIBE (ES), CIRCL (LU), Cal-CSIC, Vietnam |",
         f"| \U0001f41b CVEs disclosed | **{stats['cves_total']}** \u2014 **{stats['cves_critical']}** Critical (CVSS 9.8) \u00b7 **{stats['cves_high']}** High (CVSS 7.5) |",
         "",
-        "> \U0001f504 Stats auto-synced daily from [rxerium.com/about](https://rxerium.com/about/) \u2014 the website is the source of truth.",
+        "> \U0001f504 Stats auto-synced weekly from [rxerium.com/about](https://rxerium.com/about/) \u2014 the website is the source of truth.",
         SYNC_END,
     ]
     return "\n".join(lines)
