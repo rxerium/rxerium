@@ -1,0 +1,36 @@
+name: Sync About stats
+
+# Pulls the canonical stats snapshot from the website (source of truth) and
+# regenerates the managed README regions (stats table + CVE table).
+# Edit the website About page to change numbers; this repo pulls automatically.
+# Source: https://rxerium.com/about/ via https://rxerium.com/data/profile-sync.json
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Daily 06:00 UTC
+  workflow_dispatch:
+  repository_dispatch:
+    types: [about-updated]
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Fetch website stats snapshot
+        run: curl -sSf https://rxerium.com/data/profile-sync.json -o /tmp/profile-sync.json
+
+      - name: Regenerate README regions
+        run: python .github/scripts/sync_readme.py /tmp/profile-sync.json README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name 'rxerium-bot'
+          git config user.email 'bot@rxerium.com'
+          git add README.md
+          git commit -m "chore: sync README stats from rxerium.com/about" || echo "No changes to commit"
+          git push
