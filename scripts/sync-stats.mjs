@@ -23,6 +23,7 @@ function parseArgs(argv) {
   for (let i = 2; i < argv.length; i++) {
     const a = argv[i];
     if (a === '--source') out.source = argv[++i];
+    else if (a === '--fallback') out.fallback = argv[++i];
     else if (a === '--readme') out.readme = argv[++i];
     else if (a === '--help' || a === '-h') out.help = true;
     else {
@@ -33,14 +34,39 @@ function parseArgs(argv) {
   return out;
 }
 
-async function loadSource(source) {
+async function fetchJson(source) {
+  const res = await fetch(source, {
+    headers: {
+      // GitHub runners egress from datacenter IPs; Cloudflare's bot
+      // protection challenges non-browser clients, so identify as one.
+      'User-Agent':
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+      Accept: 'application/json',
+    },
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  return res.json();
+}
+
+async function loadSource(source, fallback) {
   if (/^https?:\/\//i.test(source)) {
-    const res = await fetch(source);
-    if (!res.ok) {
-      console.error(`Failed to fetch ${source}: HTTP ${res.status}`);
-      process.exit(1);
+    try {
+      return await fetchJson(source);
+    } catch (err) {
+      if (!fallback) {
+        console.error(`Failed to fetch ${source}: ${err.message}`);
+        process.exit(1);
+      }
+      console.log(`Primary source failed (${err.message}); trying fallback ${fallback}...`);
+      try {
+        return /^https?:\/\//i.test(fallback)
+          ? await fetchJson(fallback)
+          : JSON.parse(readFileSync(resolve(fallback), 'utf8'));
+      } catch (err2) {
+        console.error(`Fallback also failed: ${err2.message}`);
+        process.exit(1);
+      }
     }
-    return res.json();
   }
   const raw = readFileSync(resolve(source), 'utf8');
   return JSON.parse(raw);
@@ -83,13 +109,13 @@ function buildInner(data) {
 }
 
 async function main() {
-  const { source, readme, help } = parseArgs(process.argv);
+  const { source, fallback, readme, help } = parseArgs(process.argv);
   if (help || !source || !readme) {
-    console.log('Usage: node scripts/sync-stats.mjs --source <url|file> --readme <path>');
+    console.log('Usage: node scripts/sync-stats.mjs --source <url|file> [--fallback <url|file>] --readme <path>');
     process.exit(help ? 0 : 2);
   }
 
-  const data = await loadSource(source);
+  const data = await loadSource(source, fallback);
   const readmePath = resolve(readme);
   const content = readFileSync(readmePath, 'utf8');
 
