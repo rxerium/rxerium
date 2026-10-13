@@ -92,7 +92,8 @@ function buildRows(data) {
         : '';
     rows.push(`| CVEs disclosed | ${cves.total}${sev} |`);
   }
-  if (speaking.sessions != null) rows.push(`| Conference talks | ${speaking.sessions} |`);
+  if (speaking.sessions != null)
+    rows.push(`| Conference talks | ${speaking.sessionsDisplay ?? speaking.sessions} |`);
   if (upstreamPRs != null) rows.push(`| Upstream PRs merged | ${upstreamPRs} |`);
   if (govCitations != null) rows.push(`| Government and CERT citations | ${govCitations} |`);
   return rows;
