@@ -18,7 +18,7 @@ Rishi is a vulnerability researcher and threat intelligence specialist in London
 | Metric | Count |
 |---|---|
 | Nuclei templates | 950+ |
-| CVEs disclosed | 11 (3 Critical / 8 High) |
+| CVEs disclosed | 52 (6 Critical / 34 High) |
 | Conference talks | 20+ |
 | Government and CERT citations | 7 |
 
